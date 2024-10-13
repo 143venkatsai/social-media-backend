@@ -33,4 +33,4 @@ mongoose.connect(process.env.MONGODB_URL, {
 });
 
 
-console.log("Social Media Backend");
+console.log("Social Media Backend Connected");
